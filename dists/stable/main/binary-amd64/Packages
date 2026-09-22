@@ -5,10 +5,10 @@ Maintainer: Faro Team <support@faro.ir>
 Installed-Size: 150000
 Depends: libgtk-3-0, libsecret-1-0, libmpv2 | libmpv1
 Filename: pool/main/Faro-v0.0.5-x64.deb
-Size: 29212090
-MD5sum: f696879b97994d34bacc75750abe0a1d
-SHA1: 3182608be63bfd9bd3f190aff3c013e319084185
-SHA256: 3ee9f22b49724d2fa90e7e0ac4ea8c43caed7dd59befb9e92c999bdab265492a
+Size: 29213952
+MD5sum: e8d6915c4bd7df8578b8f89d4c3d9912
+SHA1: a431fdeb6218bf6029455a4dc3ac7f8a5dbc558a
+SHA256: 23297710b70318c13f19f98edc0c99d60b3c98d5eed292c6daa2a4b2b0e9262d
 Section: utils
 Priority: optional
 Homepage: https://faro.ir
