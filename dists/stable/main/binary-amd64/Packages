@@ -41,10 +41,10 @@ Installed-Size: 150000
 Depends: libgtk-3-0, libsecret-1-0, libmpv2 | libmpv1, libkeybinder-3.0-0
 Recommends: gnome-keyring, libayatana-appindicator3-1
 Filename: pool/main/Faro-v0.0.8-x64.deb
-Size: 33739924
-MD5sum: 79c459f64bcb99cae766260be710f765
-SHA1: 4faba5849f4ff3bafab54cb4a9f1772a434a4494
-SHA256: 0d6ef93587069f9d105f6ff8bf3568b7600a46be9849608c59525294a546140f
+Size: 33740064
+MD5sum: eda33ecaf30510f1719360f2b509e7b6
+SHA1: 72c1c96f2b8c7faec801752ccda4b1e71ebfd1de
+SHA256: afa7427e57ad429f13f5738325fe19204290d229a194da7e153620647ced27d8
 Section: utils
 Priority: optional
 Homepage: https://faro.ir
