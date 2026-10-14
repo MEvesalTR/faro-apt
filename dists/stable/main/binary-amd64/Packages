@@ -69,3 +69,21 @@ Homepage: https://faro.ir
 Description: Official Desktop Application for Faro
  Faro is a modern desktop client built with Flutter.
 
+Package: faro
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Faro Team <support@faro.ir>
+Installed-Size: 150000
+Depends: libgtk-3-0, libsecret-1-0, libmpv2 | libmpv1, libkeybinder-3.0-0
+Recommends: gnome-keyring, libayatana-appindicator3-1
+Filename: pool/main/Faro-v0.1.0-x64.deb
+Size: 35231924
+MD5sum: 7a2a61cecd26ec3d3bdbb2fb3906fddf
+SHA1: 8f9687c987627b6281acba75ce93463f8a6b69ea
+SHA256: 6ad7599efaae61d59267fb187c6a6b336f68c575d1a07ffeacbf772bfa11cbdc
+Section: utils
+Priority: optional
+Homepage: https://faro.ir
+Description: Official Desktop Application for Faro
+ Faro is a modern desktop client built with Flutter.
+
